@@ -1,0 +1,12 @@
+CPAN_AUTHOR=hideakio
+inherit perl
+
+NAME="perl-Module-Build-XSUtil"
+VERSION=0.06
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Module::Build class for building XS modules"
+DESCRIPTION="Module::Build::XSUtil is subclass of Module::Build to support
+building XS modules."
+
+ARCH=noarch
