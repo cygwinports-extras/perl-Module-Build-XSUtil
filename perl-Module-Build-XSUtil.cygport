@@ -2,7 +2,7 @@ CPAN_AUTHOR=hideakio
 inherit perl
 
 NAME="perl-Module-Build-XSUtil"
-VERSION=0.06
+VERSION=0.15
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Module::Build class for building XS modules"
